@@ -1,0 +1,66 @@
+[
+  {
+      "name": "Root Down",
+      "street": "600 W 33rd Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80211",
+      "url": "http:www.rootdowndenver.com",
+      "pos":  {"lat": 39.763108, "lng": -105.005605}
+  },
+  {
+    "name": "Quiero Arepas",
+    "street": "3200 N Pecos St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80211",
+    "url": "http://quieroarepas.com/",
+    "pos":  {"lat": 39.762323, "lng": -105.006115}
+  },
+  {
+    "name": "THE ROTARY",
+    "street": "3200 N Pecos St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80211",
+    "url": "https://therotaryeats.com/",
+    "pos":  {"lat": 39.762327, "lng": -105.006126}
+  },
+  {
+    "name": "Avelina",
+    "street": "1550 17th St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80202",
+    "url": "http://www.avelinadenver.com/",
+    "pos":  {"lat": 39.752033, "lng": -104.999217}
+  },
+  {
+    "name": "EDGE Restaurant and Bar",
+    "street": "1111 14th St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80202",
+    "url": "https://www.edgerestaurantdenver.com/",
+    "pos":  {"lat": 39.747256, "lng": -104.997874}
+  },
+  {
+    "name": "Mizuna",
+    "street": "225 E 7th Ave",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80203",
+    "url": "https://www.mizunadenver.com/",
+    "pos":  {"lat": 39.731914, "lng": -104.983416}
+  },
+  {
+    "name": "Kokoro Denver",
+    "street": "2390 s Colorado Blvd",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80222",
+    "url": "http://kokororestaurants.com/",
+    "pos":  {"lat": 39.673687, "lng": -104.939792}
+  }
+
+]
